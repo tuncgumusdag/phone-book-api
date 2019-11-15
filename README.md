@@ -1,1 +1,1 @@
-# A phonebook api made using Spring Framework.
+Java implementation for a phone book api made by using Spring Framework.
