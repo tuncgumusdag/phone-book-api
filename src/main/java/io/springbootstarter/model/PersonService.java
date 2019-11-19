@@ -1,4 +1,4 @@
-package io.springbootstarter.people;
+package io.springbootstarter.model;
 
 import org.springframework.stereotype.Service;
 

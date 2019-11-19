@@ -1,6 +1,6 @@
 package io.springbootstarter.service;
 
-import io.springbootstarter.people.Person;
+import io.springbootstarter.model.Person;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
